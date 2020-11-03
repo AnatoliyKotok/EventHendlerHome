@@ -1,0 +1,7 @@
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\bin\Debug\ClokDelegat.exe.config
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\bin\Debug\ClokDelegat.exe
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\bin\Debug\ClokDelegat.pdb
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\obj\Debug\ClokDelegat.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\obj\Debug\ClokDelegat.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\obj\Debug\ClokDelegat.exe
+C:\Users\Anatoliy\source\repos\ClokDelegat\ClokDelegat\obj\Debug\ClokDelegat.pdb
